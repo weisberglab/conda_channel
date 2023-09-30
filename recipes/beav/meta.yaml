@@ -23,7 +23,7 @@ source:
     folder: PaperBLAST
     sha256: {{ gapmind_sha256 }}
   - url: https://github.com/acarafat/pyCirclize/releases/tag/refs/tags/{{ pycirclize_git }}.tar.gz
-    folder:
+    folder: PyCirclize
     sha256: {{pycirclize_sha256}}
 
 build:
