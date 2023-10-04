@@ -1,6 +1,6 @@
 {% set name = "beav" %}
-{% set version = "0.5.1" %}
-{% set sha256 = "0266f133815aefa62fe8e69a9f4bec3984bdb17650144345a5d03266e46390dc" %}
+{% set version = "0.5.2" %}
+{% set sha256 = "28b1f541725d59b28543c76a40be0f74cd0e9b763e59c2cb58a3c5658e777e09" %}
 {% set dbscan_git = "condabeav0.5" %}
 {% set dbscan_sha256 = "2fe08873026fe63a9992bfb997e59fecce7facb903778983dc6917c962573463" %}
 {% set gapmind_git = "Beav0.5.1conda" %}
